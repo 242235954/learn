@@ -41,7 +41,7 @@ class student{
 }
 ```
 
-## markdown练习
+## 表格练习
 
 学号|姓名|年龄
 --:|:--:|:--
@@ -55,3 +55,17 @@ class student{
 * 饮品
    * 可乐
    * 果汁
+
+## 超链接
+[百度](https://www.baidu.com/)
+
+## 字体
+1. *斜体*
+2. **加粗**
+3. ***斜体加粗***
+
+## 分割线
+***
+
+## 图片
+![MarkDown](https://img-blog.csdnimg.cn/20200709144611303.png)
