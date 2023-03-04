@@ -5,6 +5,7 @@
 ## 工具使用
 1. git  github
 2. markdown
+3.first change
 
 ## 算法刷题
 1. leetcode第一题
