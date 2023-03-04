@@ -5,10 +5,10 @@
 ## 工具使用
 1. git  github
 2. markdown
-3.first change
-4.second change
-5.test
-6.others change
+3. first change
+4. second change
+5. test
+6. others change
 
 ## 算法刷题
 1. leetcode第一题
