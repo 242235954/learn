@@ -8,6 +8,7 @@
 3.first change
 4.second change
 5.test
+6.others change
 
 ## 算法刷题
 1. leetcode第一题
